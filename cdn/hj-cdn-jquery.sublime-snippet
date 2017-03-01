@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<!-- 1.7.1/1.11.1/2.1.1 -->
+<script type="text/javascript" src="../Public/Lib/plugins/jQuery/jquery-1.11.1.min.js"></script>
+]]></content>
+	<tabTrigger>hj-cdn:jquery</tabTrigger>
+</snippet>

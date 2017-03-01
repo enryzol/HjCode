@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<link rel="stylesheet" href="../Public/Lib/bootstrap/css/bootstrap.min.css">
+<!-- font 4.4.0 http://fontawesome.io/icons/ -->
+<link rel="stylesheet" href="../Public/Lib/font-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" href="../Public/Lib/AdminLTE/css/AdminLTE.min.css">
+<link rel="stylesheet" href="../Public/Lib/global.css">
+]]></content>
+	<tabTrigger>hj-cdn-local:css</tabTrigger>
+</snippet>

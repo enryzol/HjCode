@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<empty name="${1:vo.id}">${2:\{\$vo.name\}}<else />${3:\{\$vo.name\}}</empty>
+]]></content>
+	<tabTrigger>hj-thinkphp:empty</tabTrigger>
+</snippet>

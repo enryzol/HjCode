@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<link rel="stylesheet" href="../Public/Lib/plugins/NewPlugin/NewPlugin.min.css">
+<script type="text/javascript" src="../Public/Lib/plugins/NewPlugin/NewPlugin.min.js"></script>
+]]></content>
+	<tabTrigger>hj-cdn-local:plugin</tabTrigger>
+</snippet>

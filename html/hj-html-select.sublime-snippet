@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<select name="" class="">
+	<option value=""></option>
+</select>
+]]></content>
+	<tabTrigger>hj-html:select</tabTrigger>
+</snippet>

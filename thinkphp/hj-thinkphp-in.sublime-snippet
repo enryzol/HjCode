@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<in name="info.id" value="1,2,3">
+</in>
+]]></content>
+	<tabTrigger>hj-thinkphp:in</tabTrigger>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<notempty name="${1:vo.id}">
+	${2:\{\$vo.name\}}
+<else />
+	${3:\{\$vo.name\}}
+</notempty>
+]]></content>
+	<tabTrigger>hj-thinkphp:notempty</tabTrigger>
+</snippet>

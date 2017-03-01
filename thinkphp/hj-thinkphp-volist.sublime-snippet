@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<volist name="list" id="vo">
+	{\$vo.id}
+</volist>
+]]></content>
+	<tabTrigger>hj-thinkphp:volist</tabTrigger>
+</snippet>

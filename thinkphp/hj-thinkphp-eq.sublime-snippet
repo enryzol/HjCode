@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<eq name="${1:vo.id}" value="1">
+	${2:\{\$vo.name\}}
+<else />
+	${3:\{\$vo.name\}}
+</eq>
+]]></content>
+	<tabTrigger>hj-thinkphp:eq</tabTrigger>
+</snippet>

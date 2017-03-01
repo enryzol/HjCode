@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<switch name="${1:vo.id}" >
+<case value="1" break="1"></case>
+<case value="2" break="1"></case>
+<default />
+</switch>
+]]></content>
+	<tabTrigger>hj-thinkphp:switch</tabTrigger>
+</snippet>

@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+\$.ajax(\{
+	type: "POST",
+	url: "some.php",
+	headers: \{\},
+	data: "name=John&location=Boston",
+	dataType: "html",// html/json/jsonp/xml
+	success: function(msg)\{
+		alert(1);
+	\},
+	error: function()\{
+		
+	\}
+\});
+]]></content>
+	<tabTrigger>hj-js-jquery:ajax</tabTrigger>
+</snippet>

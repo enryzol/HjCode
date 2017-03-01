@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+javascript:if(confirm('${1:Sure?}'))\{${2:window.location.href='';}return false;\}else{return false;}
+]]></content>
+	<tabTrigger>hj-js:confirm</tabTrigger>
+</snippet>

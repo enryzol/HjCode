@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+\$.ajax(\{
+    type: "POST",
+    url: "/ajax/RedirectApi",
+    headers: \{\},
+    data: \{
+        urlCode: "",
+        id: ''
+    \},
+    dataType: "json",// html/json/jsonp/xml
+    success: function(msg)\{
+        if(msg.flag == '1')\{
+            console.log(msg);
+        \}else\{
+            console.log('error');
+        \}
+    \},
+    error: function()\{
+        console.log('error');
+    \}
+\});
+]]></content>
+	<tabTrigger>hj-js-jquery-api:ajax</tabTrigger>
+	<scope>source.js</scope>
+  <description>api ajax ªÒ»°</description>
+</snippet>

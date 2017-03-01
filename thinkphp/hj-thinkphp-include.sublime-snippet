@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<include file="${1:Share:meta}" />
+]]></content>
+	<tabTrigger>hj-thinkphp:include</tabTrigger>
+</snippet>

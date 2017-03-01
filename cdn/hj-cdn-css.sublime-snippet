@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="http://space.cdn.ports-intl.com/Ports/Ports-intl/common/Lib/h5style/css/import-min.css">
+]]></content>
+	<tabTrigger>hj-cdn:css</tabTrigger>
+</snippet>

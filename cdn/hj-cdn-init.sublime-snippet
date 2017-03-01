@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<link rel="stylesheet" href="../Public/Lib/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="../Public/Lib/font-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" href="../Public/css/global.css">
+]]></content>
+	<tabTrigger>hj-cdn:init</tabTrigger>
+</snippet>
