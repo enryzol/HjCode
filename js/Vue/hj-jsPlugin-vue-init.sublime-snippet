@@ -14,6 +14,6 @@
     \});
 ]]></content>
 	<tabTrigger>hj-jsPlugin-vue:init</tabTrigger>
-	<description>vue≥ı ºªØ</description>
+	<description>vue init</description>
 	<scope>text.html</scope>
 </snippet>

@@ -25,6 +25,6 @@
     </script>
 ]]></content>
 	<tabTrigger>hj-jsPlugin-lightGallery:init</tabTrigger>
-	<description>点击图片弹出相册浏览器插件</description>
+	<description>lightGallery plugin</description>
 	<scope>text.html</scope>
 </snippet>
