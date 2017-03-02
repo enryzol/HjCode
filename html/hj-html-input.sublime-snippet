@@ -3,4 +3,5 @@
 <input type="${1:text}" class="" name="" value="" />
 ]]></content>
 	<tabTrigger>hj-html:input</tabTrigger>
+	<scope>text.html</scope>
 </snippet>

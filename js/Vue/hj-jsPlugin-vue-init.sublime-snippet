@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+    var HjVue = new Vue(\{
+            el: '.container-fluid',
+            data: \{
+                list: [],
+                Loading : false
+            \},
+            methods: \{
+                init: function()\{
+                    
+                \}
+            \}
+    \});
+]]></content>
+	<tabTrigger>hj-jsPlugin-vue:init</tabTrigger>
+	<description>vue≥ı ºªØ</description>
+	<scope>text.html</scope>
+</snippet>

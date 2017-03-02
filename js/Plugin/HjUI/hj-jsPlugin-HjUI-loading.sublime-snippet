@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+HjUI.loading(\{msg:"Loading...",loading:true\});
+]]></content>
+	<tabTrigger>hj-jsPlugin-HjUI:loading</tabTrigger>
+	<description>自定义Loading样式</description>
+</snippet>

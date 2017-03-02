@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<meta content="width=${1:device-width}, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+]]></content>
+	<tabTrigger>hj-html:meta-viewport</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

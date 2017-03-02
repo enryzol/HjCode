@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+    HjVue.\$data.list.push.apply(HjVue.\$data.list,[1,2,3]);
+]]></content>
+	<tabTrigger>hj-jsPlugin-vue:array-push</tabTrigger>
+	<description>vue数组增加内容</description>
+</snippet>

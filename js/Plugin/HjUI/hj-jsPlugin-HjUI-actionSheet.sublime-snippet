@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+    HjUI.actionSheet(\{
+        cancelTitle: 'Cancel',
+        buttons: ['1','2','3']
+    \}, function(ret)\{
+        console.log(ret);
+    \});
+]]></content>
+	<tabTrigger>hj-jsPlugin-HjUI:actionSheet</tabTrigger>
+	<description>自定义actionSheet样式</description>
+</snippet>

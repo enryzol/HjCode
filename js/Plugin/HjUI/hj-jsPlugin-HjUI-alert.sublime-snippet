@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+HjUI.alert(\{msg:"Message"\});
+]]></content>
+	<tabTrigger>hj-jsPlugin-HjUI:alert</tabTrigger>
+	<description>自定义alert样式</description>
+</snippet>

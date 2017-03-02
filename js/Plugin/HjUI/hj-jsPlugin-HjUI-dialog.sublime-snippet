@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+HjUI.dialog(\{title:"title",msg:"Message",'buttons': ['cancel','OK']\});
+]]></content>
+	<tabTrigger>hj-jsPlugin-HjUI:dialog</tabTrigger>
+	<description>自定义Dialog样式</description>
+</snippet>

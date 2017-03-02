@@ -4,4 +4,5 @@
 </form>
 ]]></content>
 	<tabTrigger>hj-html:form</tabTrigger>
+	<scope>text.html</scope>
 </snippet>
