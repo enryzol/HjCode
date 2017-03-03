@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="${1:row}" v-for="vo in list" v-show="list.length">
+    ${2}
+</div>
+]]></content>
+	<tabTrigger>hj-jsPlugin-vue:for-in</tabTrigger>
+	<description>vue for-in</description>
+	<scope>text.html</scope>
+</snippet>

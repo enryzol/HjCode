@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<i class="fa fa-xxx"></i>
+<i class="fa fa-${1:star} fa-1x"></i>
 ]]></content>
 	<tabTrigger>hj-html:fontawesome-i</tabTrigger>
 	<scope>text.html</scope>

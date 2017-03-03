@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<div v-for="n in count">{{n}}</div>
+]]></content>
+	<tabTrigger>hj-jsPlugin-vue:for</tabTrigger>
+	<description>vue for</description>
+	<scope>text.html</scope>
+</snippet>
